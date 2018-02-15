@@ -66,4 +66,4 @@ for i in range(len(x_test)):
     num = np.argmax(pred[i])
     print(' prediction: ' + x_test[i] + label_to_emoji(num).strip())
 
-model.save('my_model.h5')
+model.save('checkpoints/my_model.h5')
