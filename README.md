@@ -12,7 +12,7 @@ an implementation of emojify by Keras,I wll soon make a pytorch version.
 
 Pretty simple and common model,which is very useful for emojify and some tasks like this,say many-to-one model.
 
-## Datastes
+## Datasets
 
 ![](https://github.com/cryer/Emojify/raw/master/image/data_set.png)
 
