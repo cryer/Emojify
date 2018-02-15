@@ -15,7 +15,7 @@ def sentences_to_indices(X, word_to_index, max_len):
     return X_indices
 
 
-model = load_model('my_model.h5')
+model = load_model('checkpoints/my_model.h5')
 word_to_index, index_to_word, word_to_vec_map = read_glove_vecs('data/glove.6B.50d.txt')
 maxLen = 10
 
