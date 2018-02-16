@@ -1,5 +1,5 @@
 # Emojify
-an implementation of emojify by Keras,I wll soon make a pytorch version.
+an implementation of emojify by Keras,pyTorch version to [pyTorch emojify](https://github.com/cryer/emojify-pyTorch)
 
 
 ## Inspiration
